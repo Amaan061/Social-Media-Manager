@@ -14,7 +14,6 @@ Social-Media-Manager is a social media platform where users can post pictures, u
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JWT (JSON Web Token)
 - **Frontend:** React.js 
-- **Storage:** Cloudinary/AWS S3 (for image uploads)
 
 ## Installation & Setup
 
