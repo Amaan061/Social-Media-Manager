@@ -54,7 +54,7 @@ Social-Media-Manager is a social media platform where users can post pictures, u
 ## Contributing
 Feel free to open an issue or submit a pull request if you want to contribute.
 
-
+## Preview
 ![Image 1](https://github.com/user-attachments/assets/c83282b0-0b0c-4f7e-a206-d11488fbc92d)
 
 ![Image 2](https://github.com/user-attachments/assets/276a6968-d59b-4d33-b93e-4ca20f549c91)
